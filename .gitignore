@@ -1,0 +1,18 @@
+# Vivado Temporary Files
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+.Xil/
+vitis_workspace/
+*.xsa
+
+# Logs
+*.log
+*.jou
+*.pb
+
+# OS Files
+.DS_Store
+Thumbs.db
