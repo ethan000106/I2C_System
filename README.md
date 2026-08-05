@@ -5,7 +5,6 @@
 ![Language](https://img.shields.io/badge/Language-SystemVerilog%20%2F%20Verilog-blue?style=for-the-badge&logo=SystemVerilog)
 ![Processor](https://img.shields.io/badge/Processor-MicroBlaze-orange?style=for-the-badge)
 ![Protocol](https://img.shields.io/badge/Protocol-I2C%20Standard-purple?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 **MicroBlaze 임베디드 코어(Master)와 Custom FPGA Logic(Slave) 간의<br>I2C 프로토콜 통신 시스템 설계 및 통합 검증 프로젝트**
 
